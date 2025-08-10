@@ -1,2 +1,2 @@
-fastabi
+fastapi
 uvicorn
